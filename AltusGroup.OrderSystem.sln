@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltusGroup.OrderSystem.Web"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltusGroup.OrderSystem.Api", "AltusGroup.OrderSystem.Api\AltusGroup.OrderSystem.Api.csproj", "{B8D60A6C-9A6F-49FF-AE87-23C7988098E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltusGroup.OrderSystem.Data", "AltusGroup.OrderSystem.Data\AltusGroup.OrderSystem.Data.csproj", "{671F629E-C6BA-4CB0-AF96-B944256B10C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltusGroup.OrderSystem.Entities", "AltusGroup.OrderSystem.Entities\AltusGroup.OrderSystem.Entities.csproj", "{BF332F88-8AD4-4802-9477-35998CC267CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltusGroup.OrderSystem.Repositories", "AltusGroup.OrderSystem.Repositories\AltusGroup.OrderSystem.Repositories.csproj", "{ACC19D77-55CF-4680-AA50-9035870A7723}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{B8D60A6C-9A6F-49FF-AE87-23C7988098E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8D60A6C-9A6F-49FF-AE87-23C7988098E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8D60A6C-9A6F-49FF-AE87-23C7988098E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671F629E-C6BA-4CB0-AF96-B944256B10C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671F629E-C6BA-4CB0-AF96-B944256B10C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671F629E-C6BA-4CB0-AF96-B944256B10C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671F629E-C6BA-4CB0-AF96-B944256B10C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF332F88-8AD4-4802-9477-35998CC267CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF332F88-8AD4-4802-9477-35998CC267CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF332F88-8AD4-4802-9477-35998CC267CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF332F88-8AD4-4802-9477-35998CC267CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC19D77-55CF-4680-AA50-9035870A7723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC19D77-55CF-4680-AA50-9035870A7723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC19D77-55CF-4680-AA50-9035870A7723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC19D77-55CF-4680-AA50-9035870A7723}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

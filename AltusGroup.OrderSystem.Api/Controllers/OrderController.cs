@@ -1,5 +1,10 @@
 ﻿#region Namespace imports
 
+using System.Collections.Generic;
+using System.Net;
+using System.Threading.Tasks;
+using AltusGroup.OrderSystem.Entities;
+using AltusGroup.OrderSystem.Repositories.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 #endregion
@@ -12,12 +17,15 @@ namespace AltusGroup.OrderSystem.Api.Controllers
     [ApiController]
     public class OrderController : Controller
     {
+        private IOrderRepository _orderRepository;
+        private IOrderDetailsRepository _orderDetailsRepository;
 
         #region ctor
 
-        public OrderController()
+        public OrderController(IOrderRepository orderRepository, IOrderDetailsRepository orderDetailsRepository)
         {
-
+            _orderRepository = orderRepository;
+            _orderDetailsRepository = orderDetailsRepository;
         }
 
         #endregion
@@ -25,10 +33,25 @@ namespace AltusGroup.OrderSystem.Api.Controllers
 
         #region Actions - Order
 
-        //TODO: Get
-        //TODO: Post
-        //TODO: Put
-        //TODO: Delete
+        [HttpGet]
+        [ProducesResponseType(typeof(Order), (int)HttpStatusCode.OK)]
+        [ProducesResponseType((int)HttpStatusCode.BadRequest)]
+        public async Task<ActionResult<Order>> GetOrders()
+        {
+            var results = await _orderRepository.FindAll();
+            
+            return Ok(results);
+        }
+
+        [HttpGet("{id}")]
+        [ProducesResponseType(typeof(IEnumerable<OrderItem>), (int)HttpStatusCode.OK)]
+        [ProducesResponseType((int)HttpStatusCode.BadRequest)]
+        public async Task<ActionResult<IEnumerable<OrderItem>>> GetOrderItems(int id)
+        {
+            var results = await _orderDetailsRepository.FindByOrderId(id);
+
+            return Ok(results);
+        }
 
         #endregion
     }

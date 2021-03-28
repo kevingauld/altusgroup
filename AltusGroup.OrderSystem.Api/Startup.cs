@@ -1,16 +1,16 @@
+#region Namespace imports
+
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.IO;
+using System.Reflection;
+using AltusGroup.OrderSystem.Api.Extensions;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-using Microsoft.OpenApi.Models;
+
+#endregion
 
 namespace AltusGroup.OrderSystem.Api
 {
@@ -28,10 +28,13 @@ namespace AltusGroup.OrderSystem.Api
         {
 
             services.AddControllers();
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "AltusGroup.OrderSystem.Api", Version = "v1" });
-            });
+
+            services
+                 .ConfigureDbContext()
+                 .ConfigureRepositories()
+                 .AddCustomSwagger();
+
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -41,19 +44,43 @@ namespace AltusGroup.OrderSystem.Api
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "AltusGroup.OrderSystem.Api v1"));
+                app.UseSwaggerUI(c =>
+                {
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "AltusGroup.OrderSystem.Api v1");
+                });
             }
 
-            app.UseHttpsRedirection();
-
             app.UseRouting();
-
-            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });
+
+            SeedData(app.ApplicationServices);
+        }
+
+        private void SeedData(IServiceProvider serviceProvider)
+        {
+            var ordersFile = "AltusGroup.OrderSystem.Api.Orders.json";
+            var orderDetailsFile = "AltusGroup.OrderSystem.Api.OrderDetails.json";
+            var orderData = GetResourceData(ordersFile);
+            var orderDetailsData = GetResourceData(orderDetailsFile);
+
+
+            OrderSeeder.Seed(orderData, orderDetailsData, serviceProvider);
+        }
+
+        private string GetResourceData(string resourceName)
+        {
+            var assembly = Assembly.GetExecutingAssembly();
+            
+            using Stream stream = assembly.GetManifestResourceStream(resourceName);
+            using StreamReader reader = new(stream);
+
+            var data = reader.ReadToEnd(); 
+
+            return data;
         }
     }
 }

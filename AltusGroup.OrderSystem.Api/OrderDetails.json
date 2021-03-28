@@ -1,0 +1,806 @@
+[
+  {
+    "orderId": 71782,
+    "productName": "Sport-100 Helmet, Red",
+    "quantity": 3,
+    "unitPrice": 20.994,
+    "amount": 62.982,
+    "color": "Red"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Sport-100 Helmet, Red",
+    "quantity": 3,
+    "unitPrice": 20.994,
+    "amount": 62.982,
+    "color": "Red"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Sport-100 Helmet, Black",
+    "quantity": 7,
+    "unitPrice": 20.994,
+    "amount": 146.958,
+    "color": "Black"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Sport-100 Helmet, Black",
+    "quantity": 5,
+    "unitPrice": 20.994,
+    "amount": 104.97,
+    "color": "Black"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Sport-100 Helmet, Blue",
+    "quantity": 3,
+    "unitPrice": 20.994,
+    "amount": 62.982,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Sport-100 Helmet, Blue",
+    "quantity": 6,
+    "unitPrice": 20.994,
+    "amount": 125.964,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71938,
+    "productName": "AWC Logo Cap",
+    "quantity": 1,
+    "unitPrice": 5.394,
+    "amount": 5.394,
+    "color": "Multi"
+  },
+  {
+    "orderId": 71782,
+    "productName": "AWC Logo Cap",
+    "quantity": 10,
+    "unitPrice": 5.394,
+    "amount": 53.94,
+    "color": "Multi"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Long-Sleeve Logo Jersey, M",
+    "quantity": 3,
+    "unitPrice": 29.994,
+    "amount": 89.982,
+    "color": "Multi"
+  },
+  {
+    "orderId": 71899,
+    "productName": "Long-Sleeve Logo Jersey, M",
+    "quantity": 2,
+    "unitPrice": 29.994,
+    "amount": 59.988,
+    "color": "Multi"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Long-Sleeve Logo Jersey, M",
+    "quantity": 2,
+    "unitPrice": 29.994,
+    "amount": 59.988,
+    "color": "Multi"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Long-Sleeve Logo Jersey, L",
+    "quantity": 3,
+    "unitPrice": 29.994,
+    "amount": 89.982,
+    "color": "Multi"
+  },
+  {
+    "orderId": 71895,
+    "productName": "Long-Sleeve Logo Jersey, L",
+    "quantity": 2,
+    "unitPrice": 29.994,
+    "amount": 59.988,
+    "color": "Multi"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Long-Sleeve Logo Jersey, L",
+    "quantity": 8,
+    "unitPrice": 29.994,
+    "amount": 239.952,
+    "color": "Multi"
+  },
+  {
+    "orderId": 71938,
+    "productName": "LL Road Frame - Black, 52",
+    "quantity": 3,
+    "unitPrice": 202.332,
+    "amount": 606.996,
+    "color": "Black"
+  },
+  {
+    "orderId": 71899,
+    "productName": "HL Mountain Frame - Black, 42",
+    "quantity": 1,
+    "unitPrice": 809.76,
+    "amount": 809.76,
+    "color": "Black"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-250 Red, 58",
+    "quantity": 3,
+    "unitPrice": 1466.01,
+    "amount": 4398.03,
+    "color": "Red"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-250 Black, 44",
+    "quantity": 3,
+    "unitPrice": 1466.01,
+    "amount": 4398.03,
+    "color": "Black"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-250 Black, 48",
+    "quantity": 7,
+    "unitPrice": 1466.01,
+    "amount": 10262.07,
+    "color": "Black"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-250 Black, 52",
+    "quantity": 6,
+    "unitPrice": 1466.01,
+    "amount": 8796.06,
+    "color": "Black"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-250 Black, 58",
+    "quantity": 3,
+    "unitPrice": 1466.01,
+    "amount": 4398.03,
+    "color": "Black"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-550-W Yellow, 38",
+    "quantity": 5,
+    "unitPrice": 672.294,
+    "amount": 3361.47,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-550-W Yellow, 40",
+    "quantity": 5,
+    "unitPrice": 672.294,
+    "amount": 3361.47,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-550-W Yellow, 42",
+    "quantity": 4,
+    "unitPrice": 672.294,
+    "amount": 2689.176,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-550-W Yellow, 44",
+    "quantity": 3,
+    "unitPrice": 672.294,
+    "amount": 2016.882,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-550-W Yellow, 48",
+    "quantity": 5,
+    "unitPrice": 672.294,
+    "amount": 3361.47,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71899,
+    "productName": "LL Mountain Handlebars",
+    "quantity": 1,
+    "unitPrice": 26.724,
+    "amount": 26.724
+  },
+  {
+    "orderId": 71938,
+    "productName": "HL Road Handlebars",
+    "quantity": 1,
+    "unitPrice": 72.162,
+    "amount": 72.162
+  },
+  {
+    "orderId": 71938,
+    "productName": "ML Road Frame-W - Yellow, 44",
+    "quantity": 2,
+    "unitPrice": 356.898,
+    "amount": 713.796,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Half-Finger Gloves, M",
+    "quantity": 1,
+    "unitPrice": 14.694,
+    "amount": 14.694,
+    "color": "Black"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Half-Finger Gloves, M",
+    "quantity": 2,
+    "unitPrice": 14.694,
+    "amount": 29.388,
+    "color": "Black"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Classic Vest, S",
+    "quantity": 4,
+    "unitPrice": 38.1,
+    "amount": 152.4,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71895,
+    "productName": "Classic Vest, S",
+    "quantity": 3,
+    "unitPrice": 38.1,
+    "amount": 114.3,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Classic Vest, S",
+    "quantity": 6,
+    "unitPrice": 38.1,
+    "amount": 228.6,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Classic Vest, M",
+    "quantity": 4,
+    "unitPrice": 38.1,
+    "amount": 152.4,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Classic Vest, M",
+    "quantity": 5,
+    "unitPrice": 38.1,
+    "amount": 190.5,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Water Bottle - 30 oz.",
+    "quantity": 8,
+    "unitPrice": 2.994,
+    "amount": 23.952
+  },
+  {
+    "orderId": 71782,
+    "productName": "Water Bottle - 30 oz.",
+    "quantity": 6,
+    "unitPrice": 2.994,
+    "amount": 17.964
+  },
+  {
+    "orderId": 71935,
+    "productName": "Racing Socks, M",
+    "quantity": 3,
+    "unitPrice": 5.394,
+    "amount": 16.182,
+    "color": "White"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Racing Socks, M",
+    "quantity": 4,
+    "unitPrice": 5.394,
+    "amount": 21.576,
+    "color": "White"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Racing Socks, L",
+    "quantity": 2,
+    "unitPrice": 5.394,
+    "amount": 10.788,
+    "color": "White"
+  },
+  {
+    "orderId": 71935,
+    "productName": "Racing Socks, L",
+    "quantity": 13,
+    "unitPrice": 5.2142,
+    "amount": 66.428908,
+    "color": "White"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Hitch Rack - 4-Bike",
+    "quantity": 3,
+    "unitPrice": 72,
+    "amount": 216
+  },
+  {
+    "orderId": 71782,
+    "productName": "Hitch Rack - 4-Bike",
+    "quantity": 3,
+    "unitPrice": 72,
+    "amount": 216
+  },
+  {
+    "orderId": 71782,
+    "productName": "Bike Wash - Dissolver",
+    "quantity": 10,
+    "unitPrice": 4.77,
+    "amount": 47.7
+  },
+  {
+    "orderId": 71938,
+    "productName": "Bike Wash - Dissolver",
+    "quantity": 6,
+    "unitPrice": 4.77,
+    "amount": 28.62
+  },
+  {
+    "orderId": 71938,
+    "productName": "Hydration Pack - 70 oz.",
+    "quantity": 7,
+    "unitPrice": 32.994,
+    "amount": 230.958,
+    "color": "Silver"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Hydration Pack - 70 oz.",
+    "quantity": 9,
+    "unitPrice": 32.994,
+    "amount": 296.946,
+    "color": "Silver"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Short-Sleeve Classic Jersey, S",
+    "quantity": 6,
+    "unitPrice": 32.394,
+    "amount": 194.364,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71899,
+    "productName": "Short-Sleeve Classic Jersey, S",
+    "quantity": 2,
+    "unitPrice": 32.394,
+    "amount": 64.788,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Short-Sleeve Classic Jersey, S",
+    "quantity": 1,
+    "unitPrice": 32.394,
+    "amount": 32.394,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Short-Sleeve Classic Jersey, L",
+    "quantity": 3,
+    "unitPrice": 32.394,
+    "amount": 97.182,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Short-Sleeve Classic Jersey, L",
+    "quantity": 4,
+    "unitPrice": 32.394,
+    "amount": 129.576,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Short-Sleeve Classic Jersey, XL",
+    "quantity": 5,
+    "unitPrice": 32.394,
+    "amount": 161.97,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Short-Sleeve Classic Jersey, XL",
+    "quantity": 4,
+    "unitPrice": 32.394,
+    "amount": 129.576,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71782,
+    "productName": "HL Touring Frame - Yellow, 60",
+    "quantity": 2,
+    "unitPrice": 602.346,
+    "amount": 1204.692,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71782,
+    "productName": "LL Touring Frame - Yellow, 62",
+    "quantity": 1,
+    "unitPrice": 200.052,
+    "amount": 200.052,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71782,
+    "productName": "HL Touring Frame - Blue, 54",
+    "quantity": 1,
+    "unitPrice": 602.346,
+    "amount": 602.346,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71782,
+    "productName": "HL Touring Frame - Blue, 60",
+    "quantity": 1,
+    "unitPrice": 602.346,
+    "amount": 602.346,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Rear Derailleur",
+    "quantity": 3,
+    "unitPrice": 72.876,
+    "amount": 218.628,
+    "color": "Silver"
+  },
+  {
+    "orderId": 71895,
+    "productName": "ML Mountain Seat/Saddle",
+    "quantity": 2,
+    "unitPrice": 23.484,
+    "amount": 46.968
+  },
+  {
+    "orderId": 71782,
+    "productName": "HL Touring Seat/Saddle",
+    "quantity": 1,
+    "unitPrice": 31.584,
+    "amount": 31.584
+  },
+  {
+    "orderId": 71899,
+    "productName": "HL Mountain Pedal",
+    "quantity": 1,
+    "unitPrice": 48.594,
+    "amount": 48.594,
+    "color": "Silver/Black"
+  },
+  {
+    "orderId": 71935,
+    "productName": "LL Road Pedal",
+    "quantity": 1,
+    "unitPrice": 24.294,
+    "amount": 24.294,
+    "color": "Silver/Black"
+  },
+  {
+    "orderId": 71938,
+    "productName": "LL Road Pedal",
+    "quantity": 5,
+    "unitPrice": 24.294,
+    "amount": 121.47,
+    "color": "Silver/Black"
+  },
+  {
+    "orderId": 71938,
+    "productName": "ML Road Pedal",
+    "quantity": 6,
+    "unitPrice": 37.254,
+    "amount": 223.524,
+    "color": "Silver/Black"
+  },
+  {
+    "orderId": 71938,
+    "productName": "HL Road Pedal",
+    "quantity": 5,
+    "unitPrice": 48.594,
+    "amount": 242.97,
+    "color": "Silver/Black"
+  },
+  {
+    "orderId": 71899,
+    "productName": "LL Mountain Frame - Silver, 40",
+    "quantity": 2,
+    "unitPrice": 158.43,
+    "amount": 316.86,
+    "color": "Silver"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Front Derailleur",
+    "quantity": 2,
+    "unitPrice": 54.894,
+    "amount": 109.788,
+    "color": "Silver"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Front Brakes",
+    "quantity": 1,
+    "unitPrice": 63.9,
+    "amount": 63.9,
+    "color": "Silver"
+  },
+  {
+    "orderId": 71782,
+    "productName": "HL Crankset",
+    "quantity": 2,
+    "unitPrice": 242.994,
+    "amount": 485.988,
+    "color": "Black"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Touring-2000 Blue, 60",
+    "quantity": 1,
+    "unitPrice": 728.91,
+    "amount": 728.91,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Touring-1000 Yellow, 46",
+    "quantity": 1,
+    "unitPrice": 1430.442,
+    "amount": 1430.442,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Touring-1000 Yellow, 50",
+    "quantity": 1,
+    "unitPrice": 1430.442,
+    "amount": 1430.442,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Touring-1000 Yellow, 54",
+    "quantity": 3,
+    "unitPrice": 1430.442,
+    "amount": 4291.326,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Touring-1000 Yellow, 60",
+    "quantity": 1,
+    "unitPrice": 1430.442,
+    "amount": 1430.442,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Touring-3000 Blue, 54",
+    "quantity": 2,
+    "unitPrice": 445.41,
+    "amount": 890.82,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Touring-3000 Blue, 58",
+    "quantity": 4,
+    "unitPrice": 445.41,
+    "amount": 1781.64,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Touring-3000 Yellow, 44",
+    "quantity": 3,
+    "unitPrice": 445.41,
+    "amount": 1336.23,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Touring-3000 Yellow, 54",
+    "quantity": 1,
+    "unitPrice": 445.41,
+    "amount": 445.41,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Touring-1000 Blue, 46",
+    "quantity": 2,
+    "unitPrice": 1430.442,
+    "amount": 2860.884,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Touring-1000 Blue, 50",
+    "quantity": 2,
+    "unitPrice": 1430.442,
+    "amount": 2860.884,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Touring-1000 Blue, 54",
+    "quantity": 2,
+    "unitPrice": 1430.442,
+    "amount": 2860.884,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Touring-2000 Blue, 46",
+    "quantity": 1,
+    "unitPrice": 728.91,
+    "amount": 728.91,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Touring-2000 Blue, 50",
+    "quantity": 4,
+    "unitPrice": 728.91,
+    "amount": 2915.64,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71935,
+    "productName": "Road-350-W Yellow, 40",
+    "quantity": 3,
+    "unitPrice": 1020.594,
+    "amount": 3061.782,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-350-W Yellow, 40",
+    "quantity": 5,
+    "unitPrice": 1020.594,
+    "amount": 5102.97,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-350-W Yellow, 42",
+    "quantity": 3,
+    "unitPrice": 1020.594,
+    "amount": 3061.782,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-350-W Yellow, 44",
+    "quantity": 5,
+    "unitPrice": 1020.594,
+    "amount": 5102.97,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-350-W Yellow, 48",
+    "quantity": 5,
+    "unitPrice": 1020.594,
+    "amount": 5102.97,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71935,
+    "productName": "Road-350-W Yellow, 48",
+    "quantity": 2,
+    "unitPrice": 1020.594,
+    "amount": 2041.188,
+    "color": "Yellow"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-750 Black, 58",
+    "quantity": 4,
+    "unitPrice": 323.994,
+    "amount": 1295.976,
+    "color": "Black"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Touring-3000 Blue, 44",
+    "quantity": 1,
+    "unitPrice": 445.41,
+    "amount": 445.41,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71782,
+    "productName": "Touring-3000 Blue, 50",
+    "quantity": 2,
+    "unitPrice": 445.41,
+    "amount": 890.82,
+    "color": "Blue"
+  },
+  {
+    "orderId": 71899,
+    "productName": "Mountain-400-W Silver, 40",
+    "quantity": 1,
+    "unitPrice": 461.694,
+    "amount": 461.694,
+    "color": "Silver"
+  },
+  {
+    "orderId": 71899,
+    "productName": "Mountain-500 Silver, 52",
+    "quantity": 1,
+    "unitPrice": 112.998,
+    "amount": 67.7988,
+    "color": "Silver"
+  },
+  {
+    "orderId": 71782,
+    "productName": "LL Bottom Bracket",
+    "quantity": 1,
+    "unitPrice": 32.394,
+    "amount": 32.394
+  },
+  {
+    "orderId": 71782,
+    "productName": "HL Bottom Bracket",
+    "quantity": 4,
+    "unitPrice": 72.894,
+    "amount": 291.576
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-750 Black, 44",
+    "quantity": 3,
+    "unitPrice": 323.994,
+    "amount": 971.982,
+    "color": "Black"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-750 Black, 48",
+    "quantity": 5,
+    "unitPrice": 323.994,
+    "amount": 1619.97,
+    "color": "Black"
+  },
+  {
+    "orderId": 71935,
+    "productName": "Road-750 Black, 48",
+    "quantity": 1,
+    "unitPrice": 323.994,
+    "amount": 323.994,
+    "color": "Black"
+  },
+  {
+    "orderId": 71938,
+    "productName": "Road-750 Black, 52",
+    "quantity": 4,
+    "unitPrice": 323.994,
+    "amount": 1295.976,
+    "color": "Black"
+  }
+]
