@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ntituwY9HFrl6axMro/qKXavj/5tiBXO8HdT9yI0Idr+TpliwanTgIDDsqFq/KLiufnWpPlNzh+Q2GJX9cqdjg==",
+  "dgSpecHash": "23pWpnbo+RcLo8Z/2oA2s0/Gzt+HCyp8Ke/IPV3Sra+YGgEFH9etidlyDnU8ccnH5B5O81JunFcPAM48LKuWqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Entities\\AltusGroup.OrderSystem.Entities.csproj",
+  "projectFilePath": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Entities/AltusGroup.OrderSystem.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
