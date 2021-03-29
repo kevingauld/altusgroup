@@ -1,42 +1,50 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Api/AltusGroup.OrderSystem.Api.csproj": {}
+    "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Api\\AltusGroup.OrderSystem.Api.csproj": {}
   },
   "projects": {
-    "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Api/AltusGroup.OrderSystem.Api.csproj": {
+    "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Api\\AltusGroup.OrderSystem.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Api/AltusGroup.OrderSystem.Api.csproj",
+        "projectUniqueName": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Api\\AltusGroup.OrderSystem.Api.csproj",
         "projectName": "AltusGroup.OrderSystem.Api",
-        "projectPath": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Api/AltusGroup.OrderSystem.Api.csproj",
-        "packagesPath": "/Users/kevingauld/.nuget/packages/",
-        "outputPath": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Api/obj/",
+        "projectPath": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Api\\AltusGroup.OrderSystem.Api.csproj",
+        "packagesPath": "C:\\Users\\gauldk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/kevingauld/.config/NuGet/NuGet.Config"
+          "C:\\Users\\gauldk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Data/AltusGroup.OrderSystem.Data.csproj": {
-                "projectPath": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Data/AltusGroup.OrderSystem.Data.csproj"
+              "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Data\\AltusGroup.OrderSystem.Data.csproj": {
+                "projectPath": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Data\\AltusGroup.OrderSystem.Data.csproj"
               },
-              "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Entities/AltusGroup.OrderSystem.Entities.csproj": {
-                "projectPath": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Entities/AltusGroup.OrderSystem.Entities.csproj"
+              "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Entities\\AltusGroup.OrderSystem.Entities.csproj": {
+                "projectPath": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Entities\\AltusGroup.OrderSystem.Entities.csproj"
               },
-              "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/AltusGroup.OrderSystem.Repositories.csproj": {
-                "projectPath": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/AltusGroup.OrderSystem.Repositories.csproj"
+              "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Repositories\\AltusGroup.OrderSystem.Repositories.csproj": {
+                "projectPath": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Repositories\\AltusGroup.OrderSystem.Repositories.csproj"
               }
             }
           }
@@ -82,37 +90,45 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Data/AltusGroup.OrderSystem.Data.csproj": {
+    "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Data\\AltusGroup.OrderSystem.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Data/AltusGroup.OrderSystem.Data.csproj",
+        "projectUniqueName": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Data\\AltusGroup.OrderSystem.Data.csproj",
         "projectName": "AltusGroup.OrderSystem.Data",
-        "projectPath": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Data/AltusGroup.OrderSystem.Data.csproj",
-        "packagesPath": "/Users/kevingauld/.nuget/packages/",
-        "outputPath": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Data/obj/",
+        "projectPath": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Data\\AltusGroup.OrderSystem.Data.csproj",
+        "packagesPath": "C:\\Users\\gauldk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/kevingauld/.config/NuGet/NuGet.Config"
+          "C:\\Users\\gauldk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Entities/AltusGroup.OrderSystem.Entities.csproj": {
-                "projectPath": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Entities/AltusGroup.OrderSystem.Entities.csproj"
+              "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Entities\\AltusGroup.OrderSystem.Entities.csproj": {
+                "projectPath": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Entities\\AltusGroup.OrderSystem.Entities.csproj"
               }
             }
           }
@@ -147,29 +163,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Entities/AltusGroup.OrderSystem.Entities.csproj": {
+    "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Entities\\AltusGroup.OrderSystem.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Entities/AltusGroup.OrderSystem.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Entities\\AltusGroup.OrderSystem.Entities.csproj",
         "projectName": "AltusGroup.OrderSystem.Entities",
-        "projectPath": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Entities/AltusGroup.OrderSystem.Entities.csproj",
-        "packagesPath": "/Users/kevingauld/.nuget/packages/",
-        "outputPath": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Entities/obj/",
+        "projectPath": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Entities\\AltusGroup.OrderSystem.Entities.csproj",
+        "packagesPath": "C:\\Users\\gauldk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/kevingauld/.config/NuGet/NuGet.Config"
+          "C:\\Users\\gauldk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -202,40 +226,48 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/AltusGroup.OrderSystem.Repositories.csproj": {
+    "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Repositories\\AltusGroup.OrderSystem.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/AltusGroup.OrderSystem.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Repositories\\AltusGroup.OrderSystem.Repositories.csproj",
         "projectName": "AltusGroup.OrderSystem.Repositories",
-        "projectPath": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/AltusGroup.OrderSystem.Repositories.csproj",
-        "packagesPath": "/Users/kevingauld/.nuget/packages/",
-        "outputPath": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/obj/",
+        "projectPath": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Repositories\\AltusGroup.OrderSystem.Repositories.csproj",
+        "packagesPath": "C:\\Users\\gauldk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/kevingauld/.config/NuGet/NuGet.Config"
+          "C:\\Users\\gauldk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Data/AltusGroup.OrderSystem.Data.csproj": {
-                "projectPath": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Data/AltusGroup.OrderSystem.Data.csproj"
+              "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Data\\AltusGroup.OrderSystem.Data.csproj": {
+                "projectPath": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Data\\AltusGroup.OrderSystem.Data.csproj"
               },
-              "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Entities/AltusGroup.OrderSystem.Entities.csproj": {
-                "projectPath": "/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Entities/AltusGroup.OrderSystem.Entities.csproj"
+              "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Entities\\AltusGroup.OrderSystem.Entities.csproj": {
+                "projectPath": "C:\\Users\\gauldk\\source\\repos\\altusgroup\\altusgroup\\AltusGroup.OrderSystem.Entities\\AltusGroup.OrderSystem.Entities.csproj"
               }
             }
           }
@@ -264,7 +296,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
