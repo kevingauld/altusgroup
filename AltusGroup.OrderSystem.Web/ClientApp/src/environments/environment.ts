@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  envWebServiceUri: 'https://localhost:6671/api/',
+  envWebServiceUri: 'http://localhost:6671/api/',
 };
 
 
