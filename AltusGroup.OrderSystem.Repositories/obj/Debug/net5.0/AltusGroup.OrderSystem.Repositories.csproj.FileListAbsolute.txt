@@ -1,0 +1,17 @@
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/bin/Debug/net5.0/AltusGroup.OrderSystem.Repositories.deps.json
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/bin/Debug/net5.0/AltusGroup.OrderSystem.Repositories.dll
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/bin/Debug/net5.0/ref/AltusGroup.OrderSystem.Repositories.dll
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/bin/Debug/net5.0/AltusGroup.OrderSystem.Repositories.pdb
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/bin/Debug/net5.0/AltusGroup.OrderSystem.Data.dll
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/bin/Debug/net5.0/AltusGroup.OrderSystem.Entities.dll
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/bin/Debug/net5.0/AltusGroup.OrderSystem.Entities.pdb
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/bin/Debug/net5.0/AltusGroup.OrderSystem.Data.pdb
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/obj/Debug/net5.0/AltusGroup.OrderSystem.Repositories.csprojAssemblyReference.cache
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/obj/Debug/net5.0/AltusGroup.OrderSystem.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/obj/Debug/net5.0/AltusGroup.OrderSystem.Repositories.AssemblyInfoInputs.cache
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/obj/Debug/net5.0/AltusGroup.OrderSystem.Repositories.AssemblyInfo.cs
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/obj/Debug/net5.0/AltusGroup.OrderSystem.Repositories.csproj.CoreCompileInputs.cache
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/obj/Debug/net5.0/AltusGroup.OrderSystem.Repositories.csproj.CopyComplete
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/obj/Debug/net5.0/AltusGroup.OrderSystem.Repositories.dll
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/obj/Debug/net5.0/ref/AltusGroup.OrderSystem.Repositories.dll
+/Users/kevingauld/Projects/AltusGroup/AltusGroup.OrderSystem.Repositories/obj/Debug/net5.0/AltusGroup.OrderSystem.Repositories.pdb
