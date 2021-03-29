@@ -23,11 +23,23 @@ namespace AltusGroup.OrderSystem.Api
 
         public IConfiguration Configuration { get; }
 
+        #region Private Fields
+
+        private const string CorsOrigin = "_origins";
+
+        #endregion
+
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
 
             services.AddControllers();
+
+            // Add service and create Policy with options
+            services.AddCors(options =>
+            {
+                options.AddPolicy(CorsOrigin, builder => builder.WithOrigins("http://localhost:4200", "https://localhost:6671").AllowAnyMethod().AllowAnyHeader().AllowCredentials());
+            });
 
             services
                  .ConfigureDbContext()
@@ -42,6 +54,7 @@ namespace AltusGroup.OrderSystem.Api
         {
             if (env.IsDevelopment())
             {
+                app.UseCors(CorsOrigin);
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
                 app.UseSwaggerUI(c =>
